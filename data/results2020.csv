@@ -1,0 +1,53 @@
+id,timestamp,venue,home_team,home_score,away_team,away_score
+1777473,11/11/2020 5:05 pm,McDonalds Mackay Multi Sports Stadium,Adelaide Lightning,85,UC Capitals,73
+1777524,11/11/2020 7:05 pm,McDonalds Mackay Multi Sports Stadium,Perth Lynx,48,Townsville Fire,73
+1777502,12/11/2020 6:05 pm,Townsville Stadium,Melbourne Boomers,85,Sydney Uni Flames,70
+1777482,12/11/2020 8:05 pm,Townsville Stadium,Bendigo Spirit,60,Southside Flyers,102
+1777478,14/11/2020 2:05 pm,Townsville Stadium,Bendigo Spirit,63,Sydney Uni Flames,100
+1777497,14/11/2020 4:05 pm,Townsville Stadium,Melbourne Boomers,89,Southside Flyers,72
+1777534,15/11/2020 2:05 pm,Townsville Stadium,Southside Flyers,99,Sydney Uni Flames,72
+1777525,15/11/2020 5:05 pm,McDonalds Mackay Multi Sports Stadium,Perth Lynx,69,Adelaide Lightning,74
+1777563,15/11/2020 7:05 pm,McDonalds Mackay Multi Sports Stadium,UC Capitals,78,Townsville Fire,67
+1777565,16/11/2020 5:05 pm,McDonalds Mackay Multi Sports Stadium,UC Capitals,76,Bendigo Spirit,56
+1777522,16/11/2020 7:05 pm,McDonalds Mackay Multi Sports Stadium,Perth Lynx,56,Melbourne Boomers,62
+1777557,17/11/2020 7:05 pm,Townsville Stadium,Townsville Fire,81,Sydney Uni Flames,78
+1777498,18/11/2020 5:05 pm,McDonalds Mackay Multi Sports Stadium,Melbourne Boomers,50,UC Capitals,67
+1777481,18/11/2020 7:05 pm,McDonalds Mackay Multi Sports Stadium,Bendigo Spirit,65,Perth Lynx,78
+1777531,19/11/2020 6:05 pm,Townsville Stadium,Southside Flyers,101,Townsville Fire,89
+1777555,21/11/2020 4:05 pm,Townsville Stadium,Townsville Fire,91,Bendigo Spirit,81
+1777529,21/11/2020 6:35 pm,Cairns Pop-Up Arena,Southside Flyers,117,Perth Lynx,71
+1777547,21/11/2020 8:35 pm,Cairns Pop-Up Arena,Sydney Uni Flames,63,UC Capitals,68
+1777499,22/11/2020 2:05 pm,Townsville Stadium,Melbourne Boomers,75,Townsville Fire,87
+1777532,23/11/2020 5:05 pm,Cairns Pop-Up Arena,Southside Flyers,72,UC Capitals,95
+1777551,23/11/2020 7:05 pm,Cairns Pop-Up Arena,Sydney Uni Flames,74,Perth Lynx,67
+1777500,24/11/2020 5:05 pm,Townsville Stadium,Melbourne Boomers,91,Adelaide Lightning,51
+1777483,24/11/2020 7:05 pm,Townsville Stadium,Bendigo Spirit,51,Townsville Fire,99
+1777523,25/11/2020 5:30 pm,Cairns Pop-Up Arena,Perth Lynx,62,Southside Flyers,102
+1777479,25/11/2020 8:05 pm,Townsville Stadium,Bendigo Spirit,83,Adelaide Lightning,89
+1777568,26/11/2020 6:05 pm,Cairns Pop-Up Arena,UC Capitals,73,Perth Lynx,70
+1777560,28/11/2020 2:05 pm,Cairns Pop-Up Arena,Townsville Fire,70,Southside Flyers,94
+1777476,28/11/2020 4:05 pm,Cairns Pop-Up Arena,Adelaide Lightning,75,Sydney Uni Flames,53
+1777484,28/11/2020 6:35 pm,Townsville Stadium,Bendigo Spirit,51,UC Capitals,87
+1777474,29/11/2020 12:05 pm,Cairns Pop-Up Arena,Adelaide Lightning,79,Southside Flyers,110
+1777552,29/11/2020 2:05 pm,Cairns Pop-Up Arena,Sydney Uni Flames,59,Townsville Fire,73
+1777566,01/12/2020 6:05 pm,Townsville Stadium,UC Capitals,67,Melbourne Boomers,73
+1777526,01/12/2020 8:05 pm,Townsville Stadium,Perth Lynx,95,Bendigo Spirit,79
+1777535,02/12/2020 6:05 pm,Cairns Pop-Up Arena,Southside Flyers,111,Adelaide Lightning,72
+1777549,03/12/2020 6:05 pm,Cairns Pop-Up Arena,Sydney Uni Flames,64,Melbourne Boomers,86
+1777564,04/12/2020 5:05 pm,Townsville Stadium,UC Capitals,85,Adelaide Lightning,65
+1777556,04/12/2020 7:05 pm,Townsville Stadium,Townsville Fire,75,Perth Lynx,84
+1777480,05/12/2020 4:05 pm,Cairns Pop-Up Arena,Bendigo Spirit,52,Melbourne Boomers,84
+1777550,06/12/2020 12:05 pm,Cairns Pop-Up Arena,Sydney Uni Flames,62,Bendigo Spirit,54
+1777533,06/12/2020 2:05 pm,Cairns Pop-Up Arena,Southside Flyers,94,Melbourne Boomers,79
+1777559,06/12/2020 5:05 pm,Townsville Stadium,Townsville Fire,84,UC Capitals,71
+1777477,06/12/2020 7:05 pm,Townsville Stadium,Adelaide Lightning,78,Perth Lynx,80
+1777472,08/12/2020 5:05 pm,Cairns Pop-Up Arena,Adelaide Lightning,55,Melbourne Boomers,76
+1777530,08/12/2020 7:35 pm,Townsville Stadium,Perth Lynx,68,Sydney Uni Flames,71
+1777475,09/12/2020 7:05 pm,Cairns Pop-Up Arena,Adelaide Lightning,69,Bendigo Spirit,59
+1777527,10/12/2020 6:05 pm,Townsville Stadium,Perth Lynx,69,UC Capitals,96
+1777548,10/12/2020 8:05 pm,Townsville Stadium,Sydney Uni Flames,77,Southside Flyers,81
+1777501,11/12/2020 5:05 pm,Cairns Pop-Up Arena,Melbourne Boomers,91,Bendigo Spirit,70
+1777558,11/12/2020 7:05 pm,Cairns Pop-Up Arena,Townsville Fire,95,Adelaide Lightning,66
+1777554,13/12/2020 12:05 pm,Townsville Stadium,Townsville Fire,70,Melbourne Boomers,64
+1777561,13/12/2020 2:05 pm,Townsville Stadium,UC Capitals,82,Southside Flyers,101
+1777546,13/12/2020 4:05 pm,Townsville Stadium,Sydney Uni Flames,86,Adelaide Lightning,60
