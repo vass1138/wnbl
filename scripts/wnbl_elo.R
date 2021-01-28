@@ -165,10 +165,10 @@ pred.wnbl %>%
 #
 # Before we plot ELO, associate with final standings
 
-standings <- read_csv("../data/standings_28356.csv")
+standings <- read_csv("../data/standings/standings_28356.csv")
 head(standings)
 
-teams <-read_csv("../data/teams_mapping_28356.csv")
+teams <-read_csv("../data/teams/teams_mapping_28356.csv")
 head(teams)
 
 # join teams and standings on TeamID, select Position
@@ -199,11 +199,11 @@ plot1 <- ggplot(elo.wnbl.df,aes(x=reorder(Team,-Position),y=ELO)) +
 
 plot1
 
-ggsave("wnbl_elo_2020.png")
+ggsave("wnbl_elo_2020.png",width=8,height=4)
 
 # finals predictions
 
-finals <-  read_csv("data/finals2020.csv") %>%
+finals <-  read_csv("../data/finals2020.csv") %>%
   distinct(.,home_team,away_team)
 
 finals$margin <- 0
