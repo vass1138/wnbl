@@ -167,4 +167,14 @@ def load_csv(data_path,prefix,include_id=False):
         df['CompID'] = df['filename'].str.extract('(\d+)').astype(int)
 
     df = df.drop(columns=['filename']) 
-    return(df)   
+    return(df) 
+
+def compute_epg(df):
+
+    # efficiency
+    df['EFF'] = df['PTS'] + df['REB'] + df['AST'] + df['STL'] + df['BLK'] - (df['FGA'] - df['FGM']) - (df['3PA'] - df['3PM'])  - (df['FTA'] - df['FTM']) - df['TO']
+
+    # efficiency per game
+    df['EPG'] = df['EFF'] / df['G']
+
+    return(df) 
